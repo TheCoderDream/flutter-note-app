@@ -1,5 +1,11 @@
 # note_app
 
+![image](https://user-images.githubusercontent.com/26883843/161134414-94751d87-8370-4e17-93c9-71e4175d16d6.png)
+
+![image](https://user-images.githubusercontent.com/26883843/161134587-bda66024-b128-47b6-8b94-5e3c5739d584.png)
+
+
+
 A new Flutter project.
 
 ## Getting Started
